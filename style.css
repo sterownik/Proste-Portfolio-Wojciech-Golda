@@ -1,0 +1,170 @@
+body
+{
+	background-color: #303030;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	font-size:20px;
+}
+#container{
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+	
+}
+.rectangle
+{
+	width:960px;
+	margin:20px;
+	text-align:center;
+}
+.square{
+	width:50%;
+	float:left;
+}
+.tile1{
+	margin:10px;
+	background-color:#3095d3;
+	width:230px;
+	height:142px;
+	float:left;
+	text-align:center;
+}
+.tile1:hover
+{
+	background-color:#2084c2;
+}
+.tile2{
+	margin:10px;
+	background-color:#c2b1a9;
+	width:230px;
+	height:142px;
+	float:left;
+	text-align:center;
+}
+.tile2:hover{
+	background-color:#b1a098;
+}
+.tile3:hover{
+	background-color:#10d436;
+}
+.tile3{
+	margin:10px;
+	background-color:#20e547;
+	width:230px;
+	height:142px;
+	float:left;
+	text-align:center;
+}
+
+.tile4{
+	margin:10px;
+	background-color:#e58020;
+	width:480px;
+	height:102px;
+	text-align:center;
+	padding-top:40px;
+	font-size:26px;
+	
+	
+	
+}
+
+.tile5{
+	margin:10px;
+	background-color:#c2b1a9;
+	width:420px;
+	height:244px;
+	
+	text-align:justify;
+	text-align:center;
+	padding:30px;
+	
+}
+a.tilelink
+{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	width:230px;
+	height:142px;
+	
+}
+a.tilelinkhtml5
+{
+	color:#ffffff;
+	
+	text-decoration:none;
+	
+	
+}
+.tile6{
+	margin-top:10px;
+	text-align:center;
+	float:left;
+	background-color:#e54720;
+	width:112px;
+	margin-left:10px;
+	margin-right:5px;
+	height:142px;
+}
+.tile6:hover{
+	background-color:#d43610;
+}
+.tile7{
+	margin-top:10px;
+	margin-left:5px;
+	margin-right:5px;
+	float:left;
+	background-color:#209ae5;
+	width:112px;
+	height:142px;
+}
+.tile7:hover{
+		background-color:#1089d4;
+}
+
+.tile8{
+	margin-top:10px;
+	float:left;
+	background-color:#e59a20;
+	margin-left:5px;
+	margin-right:5px;
+	width:112px;
+	height:142px;
+}
+.tile8:hover{
+	background-color:#d48910;
+}
+.tile9{
+	margin-top:10px;
+	float:left;
+	background-color:#67a8e2;
+	margin-left:5px;
+	margin-right:5px;
+	width:112px;
+	height:142px;
+}
+.tile9:hover{
+	background-color:#5697d1;
+}
+#logo
+{
+	width:470px;
+	float:left;
+	
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:60px;
+	color:#33ceff;
+	
+}
+#zegar
+{
+	margin-top:12px;
+	text-align:left;
+	
+	float:left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:50px;
+	color:#33ceff;
+}
+
